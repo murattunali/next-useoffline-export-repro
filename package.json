@@ -1,0 +1,13 @@
+{
+  "name": "next-useoffline-export-repro",
+  "private": true,
+  "scripts": {
+    "build": "next build",
+    "serve": "node serve.mjs"
+  },
+  "dependencies": {
+    "next": "16.5.0-canary.5",
+    "react": "19.3.0",
+    "react-dom": "19.3.0"
+  }
+}
